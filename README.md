@@ -32,15 +32,13 @@ Este proyecto es una aplicación de contador de calorías desarrollada con React
 4. Abre tu navegador y navega a http://localhost:3000.
 
 Scripts Disponibles
-npm run dev: Inicia el servidor de desarrollo.
-npm run build: Construye la aplicación para producción.
-npm run lint: Ejecuta ESLint para analizar el código.
-npm run preview: Previsualiza la aplicación construida.
-Configuración de ESLint
+* npm run dev: Inicia el servidor de desarrollo.
+* npm run build: Construye la aplicación para producción.
+* npm run lint: Ejecuta ESLint para analizar el código.
+* npm run preview: Previsualiza la aplicación construida.
+
+## Configuración de ESLint
 El proyecto utiliza ESLint para mantener la calidad del código. La configuración se encuentra en el archivo eslint.config.js y se puede expandir para habilitar reglas de linting basadas en tipos.
 
-Contribuciones
+## Contribuciones
 Las contribuciones son bienvenidas. Si deseas contribuir, por favor abre un issue o envía un pull request.
-
-Licencia
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
