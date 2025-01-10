@@ -48,6 +48,6 @@ Las contribuciones son bienvenidas. Si deseas contribuir, por favor abre un issu
 
 Puedes visitar la aplicación en el siguiente enlace:
 
-[![Visitar el sitio]([[https://startling-cannoli-1d437a.netlify.app/](https://calories-trackers.netlify.app/))]
+[![💕❤️Visitar el sitio](https://calories-trackers.netlify.app/)](https://calories-trackers.netlify.app/)
 
 ![Vista previa del sitio](public/img/app.png)
