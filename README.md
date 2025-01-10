@@ -45,3 +45,9 @@ Las contribuciones son bienvenidas. Si deseas contribuir, por favor abre un issu
 
 
 - **¡Gracias por visitar este proyecto! Si tienes alguna pregunta o sugerencia, no dudes en contactarme.**
+
+Puedes visitar la aplicación en el siguiente enlace:
+
+[![Visitar el sitio](https://startling-cannoli-1d437a.netlify.app/)](https://startling-cannoli-1d437a.netlify.app/)
+
+![Vista previa del sitio](public/img/app.png)
